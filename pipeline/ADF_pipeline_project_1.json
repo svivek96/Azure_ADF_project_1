@@ -256,6 +256,9 @@
 			},
 			"backdate": {
 				"type": "string"
+			},
+			"Name": {
+				"type": "string"
 			}
 		},
 		"annotations": [],
